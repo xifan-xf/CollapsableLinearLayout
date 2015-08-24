@@ -1,7 +1,9 @@
 # CollapsableLinearLayout
 A CustomLayout show tabsview with collaps/expand animation
 custom attr
-        <attr name="horizontalSpacing" format="dimension" />
+### Custom style
+```xml
+<attr name="horizontalSpacing" format="dimension" />
         <attr name="verticalSpacing" format="dimension" />
         <attr name="backgroundColor" format="reference" />
         <attr name="layoutColor" format="color" />
@@ -18,10 +20,11 @@ custom attr
         <attr name="textPaddingLeft" format="dimension" />
         <attr name="textPaddingRight" format="dimension" />
         <attr name="textPaddingTop" format="dimension" />
-        <attr name="textPaddingBottom" format="dimension" />
-        
-(https://github.com/xufan/CollapsableLinearLayout/blob/master/screenshots/device-2015-08-24-180709.png)
-(https://github.com/xufan/CollapsableLinearLayout/blob/master/screenshots/device-2015-08-24-180832.png)
+        <attr name="textPaddingBottom" format="dimension" />        
+   
+# Example        
+![](https://github.com/xufan/CollapsableLinearLayout/blob/master/screenshots/device-2015-08-24-180709.png)
+![](https://github.com/xufan/CollapsableLinearLayout/blob/master/screenshots/device-2015-08-24-180832.png)
 
 
 
