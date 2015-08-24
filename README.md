@@ -1,6 +1,5 @@
 # CollapsableLinearLayout
 A CustomLayout show tabsview with collaps/expand animation
-
 ![Select Images](https://github.com/xufan/CollapsableLinearLayout/blob/master/screenshots/device-2015-08-24-180709.png)
 ![Select Images](https://github.com/xufan/CollapsableLinearLayout/blob/master/screenshots/device-2015-08-24-180832.png)
 
